@@ -1,0 +1,51 @@
+name: Bug report
+description: Create a report for a bug you have found
+title: "[BUG] <title>"
+labels: "bug"
+assignees: Pavocracy
+body:
+- type: checkboxes
+  attributes:
+    label: Is there an existing issue for this?
+    description: Please search to see if an issue already exists for the bug you encountered.
+    options:
+    - label: I have searched the existing issues and did not find this bug reported
+      required: true
+- type: textarea
+  attributes:
+    label: Describe the bug
+    placeholder: A clear and concise description of what the bug is.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Expected Behavior
+    placeholder: A clear and concise description of what you expected to happen.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Steps To Reproduce
+    placeholder: |
+      1. Do this
+      2: Do that
+      3. See error or incorrect behavior
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Environment details
+    placeholder: |
+      Environment example:
+      - OS: Ubuntu 20.04
+      - python: 3.7.12
+      - tag version: 1.4.0
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Anything else?
+    placeholder: |
+      Please list any other information that may help reproduce this bug. Feel free to include required log files.
+  validations:
+    required: false
