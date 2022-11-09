@@ -6,7 +6,8 @@ But nevertheless, if anything is found, feel free to report it here and reports 
 
 ## Supported Versions
 All my projects use semantic versioning, and anything below v1.0.0 is strictly a POC and not meant for end users or deployment. 
-So security issues found in versions under that wont be accepted. (unless found in used third party software where it can be reported) 
+So security issues found in versions under that wont be considered urgent. 
+It will be noted to be dealt with before a version 1.0.0 or if found in used third party software, reported to them instead.  
 | Version     | Supported          |
 | ----------- | ------------------ |
 | >= 1.0.0    | :white_check_mark: |
