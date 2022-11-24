@@ -8,7 +8,7 @@ If you have code you would like to put up as a PR, that's appreciated! I would e
 ## Pull Requests Process
 1. Ensure the code conforms to the [Coding Standard](https://github.com/Pavocracy/.github/blob/main/CODING_STANDARD.md "Coding standard doc") 
 2. Run the linter/checker/formater tools used by this project 
-3. Run the unittests and ensure they all pass 
+3. Run the tests and ensure they all pass 
 4. Make sure to fill out the pull request template with the correct checklist items applied 
 
 ***
