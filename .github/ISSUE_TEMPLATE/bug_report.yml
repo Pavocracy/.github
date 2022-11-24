@@ -36,8 +36,8 @@ body:
   attributes:
     label: Environment details
     placeholder: |
-      - OS: Ubuntu 20.04
-      - python: 3.7.12
+      - operating system: Ubuntu 20.04
+      - language version: python 3.7.12
       - project version: 1.4.0
   validations:
     required: true
