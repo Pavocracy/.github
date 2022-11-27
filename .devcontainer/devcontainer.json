@@ -108,3 +108,4 @@
         "pip_upgrade": "python3 -m pip install --upgrade pip",
         "python_tools": "python3 -m pip install mypy pylint black"
     }
+}
