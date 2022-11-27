@@ -20,13 +20,13 @@
     "hostRequirements": {
         "cpus": 2,
         "memory": "4gb",
-        "storage": "15gb"
+        "storage": "4gb"
     },
     "customizations": {
         "vscode": {
             "settings": {
                 "workbench.colorTheme": "Dracula",
-                "terminal.integrated.fontFamily": "Monocraft",
+                "terminal.integrated.fontFamily": "'Droid Sans Mono', 'monospace', monospace",
                 "terminal.integrated.automationProfile.linux": {
                     "path": "/usr/bin/bash",
                     "args": [
@@ -105,7 +105,6 @@
         }
     },
     "onCreateCommand": {
-        "python": "python3 -m pip install mypy pylint black",
-        "Monocraft": "mkdir -p ~/.local/share/fonts && curl https://github.com/IdreesInc/Monocraft/releases/download/v1.4/Monocraft.otf -o ~/.local/share/fonts/Monocraft.otf"
+        "pip_upgrade": "python3 -m pip install --upgrade pip",
+        "python_tools": "python3 -m pip install mypy pylint black"
     }
-}
