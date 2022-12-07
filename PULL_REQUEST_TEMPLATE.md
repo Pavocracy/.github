@@ -1,11 +1,11 @@
 ## Description
-Please include a summary of the changes made in this pull request.
-Please delete any options below that are not relevant.
-Also make sure to tick relevent boxes with `[x]`.
+Please replace this description with a summary of the changes made in this pull request.
+Please delete any checklist options below that are not relevant.
+But make sure to tick the relevent checklist boxes with `[x]`.
 
-## Type of change
+## Type of change (Pick one that best suits this PR)
 - [ ] Bug Fix (If this fixes an issue tag it in the description with Fixes #issue_number)
-- [ ] Code Addition (Any kind of code addition or cleanup that doesnt change functionality)
+- [ ] Code Change (Any kind of code addition or cleanup that doesnt change functionality)
 - [ ] New Feature (Non-breaking code change which adds functionality)
 - [ ] Major Feature (This is for all breaking changes to the code!)
 - [ ] Documentation Update (All documentation updates)
@@ -13,7 +13,7 @@ Also make sure to tick relevent boxes with `[x]`.
 ## Checklist:
 - [ ] My code follows the style guidelines of this project
 - [ ] I have commented my code where appropriate
-- [ ] I have made corresponding changes to the documentation
-- [ ] My changes generate no new warnings
+- [ ] I have updated the documentation for these changes
 - [ ] I have added tests that prove my fix is effective or that my new feature works
-- [ ] New and existing unit tests pass locally with my changes
+- [ ] My changes generate no new warnings
+- [ ] All tests pass with my changes
