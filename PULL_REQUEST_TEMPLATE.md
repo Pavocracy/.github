@@ -1,7 +1,8 @@
 ## Description
 Please replace this description with a summary of the changes made in this pull request.
-Please delete any checklist options below that are not relevant.
-But make sure to tick the relevent checklist boxes with `[x]`.
+Please tick `[x]` one type of change that best suits this PR's intentions.
+Please make sure to tick `[x]` the checklist items you've completed.
+Some will not be relevent and are expected to not be ticked. If in doubt, ask for help.
 
 ## Type of change (Pick one that best suits this PR)
 - [ ] Bug Fix (If this fixes an issue tag it in the description with Fixes #issue_number)
