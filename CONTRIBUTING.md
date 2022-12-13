@@ -6,7 +6,7 @@ If you have code you would like to put up as a PR, that's appreciated! I would e
 ***
 
 ## Pull Requests Process
-1. Ensure the code conforms to the [Coding Standard](https://github.com/Pavocracy/.github/blob/main/CODING_STANDARD.md "Coding standard doc") 
+1. Ensure the code conforms to the [Coding Standard](CODING_STANDARD.md "Coding standard doc") 
 2. Run the linter/checker/formater tools used by this project 
 3. Run the tests and ensure they all pass 
 4. Make sure to fill out the pull request template with the correct checklist items applied 
@@ -14,4 +14,4 @@ If you have code you would like to put up as a PR, that's appreciated! I would e
 ***
 
 ## Code of Conduct
-Contributing to this project means you are willing to follow the same conduct that others are held to! Please see [Code of Conduct](https://github.com/Pavocracy/.github/blob/main/CODE_OF_CONDUCT.md "Code of conduct doc") for further details. 
+Contributing to this project means you are willing to follow the same conduct that others are held to! Please see [Code of Conduct](CODE_OF_CONDUCT.md "Code of conduct doc") for further details. 
