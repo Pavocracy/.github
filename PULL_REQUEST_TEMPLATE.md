@@ -11,7 +11,7 @@ Tick boxes with `[x]`. If in doubt about anything with this PR process, ask for 
 - [ ] Major Feature (This is for all breaking changes to the code!)
 - [ ] Documentation Update (All documentation updates)
 
-## Checklist (Tick items you have completed):
+## Checklist (Tick items you have completed)
 - [ ] I have checked my code follows the style guidelines of this project
 - [ ] I have updated the documentation to reflect these changes
 - [ ] I have run the tool suite used by this project (formatter/linter ect)
