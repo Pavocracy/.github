@@ -1,7 +1,7 @@
 ## Description
 Please replace this default description text with a summary of the changes made in this pull request.
 Please tick one "Type of change" that best suits this PR's intentions.
-Please make sure to tick the checklist items you've completed. (Not all will be relevent for every PR)
+Please make sure to tick the checklist items you've completed. (Not all will be relevent for every PR)  
 Tick boxes with `[x]`. If in doubt about anything with this PR process, ask for help!
 
 ## Type of change (Pick one that best suits this PR)
