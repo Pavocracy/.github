@@ -12,7 +12,7 @@ Tick boxes with `[x]`. If in doubt about anything with this PR process, ask for 
 - [ ] Documentation Update (All documentation updates)
 
 ## Checklist (Tick items you have completed)
-- [ ] I have checked my code follows the style guidelines of this project
+- [ ] I have checked my code follows the [coding standard](CODING_STANDARD.md "Coding standard doc") of this project
 - [ ] I have updated the documentation to reflect these changes
 - [ ] I have run the tool suite used by this project (formatter/linter ect)
 - [ ] I have added tests that prove my fix is effective or that my new feature works
