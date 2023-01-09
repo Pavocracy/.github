@@ -8,11 +8,11 @@ Tick boxes with `[x]`. If in doubt about anything with this PR process, ask for 
 - [ ] Bug Fix (If this fixes an issue tag it in the description with Fixes #issue_number)
 - [ ] Code Change (Any kind of code addition or cleanup that doesnt change functionality)
 - [ ] New Feature (Non-breaking code change which adds functionality)
-- [ ] Major Feature (This is for all breaking changes to the code!)
-- [ ] Documentation Update (All documentation updates)
+- [ ] Breaking Change (This is for all breaking changes to the code!)
+- [ ] Documentation Update (Any documentation updates)
 
 ## Checklist (Tick items you have completed)
-- [ ] I have checked my code follows the [coding standard](CODING_STANDARD.md "Coding standard doc") of this project
+- [ ] I have checked my code follows the [coding standard](https://github.com/Pavocracy/.github/blob/main/CODING_STANDARD.md) "Coding standard doc") of this project
 - [ ] I have updated the documentation to reflect these changes
 - [ ] I have run the tool suite used by this project (formatter/linter ect)
 - [ ] I have added tests that prove my fix is effective or that my new feature works
